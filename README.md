@@ -3,4 +3,4 @@ As the team lead for my school in the Wharton Global High School Investment Comp
 
 Our task was to construct an investment strategy that aligned with a Wharton alumnus client’s financial objectives and ESG priorities. 
 
-SKILLS: Python, Pandas, Monte Carlo Simulation, Portfolio Optimization, Time Series Analysis, Statistical Modeling, Risk Analysis, Data Visualization, Web Scraping
+SKILLS: Python, Pandas, Monte Carlo Simulation, Time Series Analysis, Statistical Modeling, Web Scraping
